@@ -1,0 +1,4 @@
+name: MCLI
+version: @version@
+main: dev.ookuki.mcli.MCLI
+api-version: 1.16
